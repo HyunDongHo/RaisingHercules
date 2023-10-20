@@ -1,0 +1,20 @@
+1. [Unity] 새로워진 스프라이트 아틀라스(Sprite Atlas)
+출처 : https://hannom.tistory.com/202
+
+2. [Unity] 이제 Sprite Packer 는 그만. Sprite Atlas 를 사용하자.
+출처: https://skuld2000.tistory.com/28 [아마군의 Dev로그]
+
+3. [Unity] 아틀라스 만들기 Step by Step
+출처 : https://blog.naver.com/PostView.nhn?blogId=spoonpen&logNo=222045204709&categoryNo=212&parentCategoryNo=0
+
+4. [Unity] Sprite Pack 
+출처 : https://young-94.tistory.com/85
+
+5. Asset Bundle Build
+출처 : https://ssabi.tistory.com/12
+
+6. Sprite Atlas 
+출처 : https://youtu.be/jqYySxtoIFs
+
+7. 회사 싷무에 힘을 주는 유니티 2020_ 스프라이트 
+출처 : https://youtu.be/BTOuqp6b1wc
