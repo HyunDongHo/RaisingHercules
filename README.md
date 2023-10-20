@@ -2,7 +2,7 @@
 
 # 프로젝트 소개 
 Unity3D "대검소녀키우기" 개발 참여 (Google Play Store)
-![대검소녀키우기](https://github.com/HyunDongHo/RaisingHercules/assets/46379443/cab740c7-6813-4121-b971-e1aee5ed3c81)
+![image](https://github.com/HyunDongHo/RaisingHercules/assets/46379443/c66e2975-f028-43fb-9af3-323e27f52db1)
 
 # 팀 프로젝트 개요 
 - 개발도구 : Unity
