@@ -1,0 +1,13 @@
+스크립트
+StageScene.cs
+BackendNoti.cs
+UI_NotiPopup.cs
+UI_NotiItem.cs
+
+----------------------
+프리팹
+UI_NotiPopup -> 상세창 까지 같이 구현
+UI_NotiItem
+--------------------
+포토샵
+photoscapeX
