@@ -19,3 +19,6 @@ Unity3D "대검소녀키우기" 개발 참여 (Google Play Store)
 7. sword effect 구현 
 8. 버그찾기 
 
+# 영상 
+- 스킬 테스트 영상 링크 : https://youtu.be/nFQkmrHrrLI
+- 공지 팝업 테스트 영상 링크 : https://youtube.com/shorts/VVcMCBjEpbE
