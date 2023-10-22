@@ -24,3 +24,4 @@ Unity3D "대검소녀키우기" 개발 참여 (Google Play Store)
 - 스킬 테스트 영상 링크 : https://youtu.be/nFQkmrHrrLI
 - 공지 팝업 테스트 영상 링크 : https://youtube.com/shorts/VVcMCBjEpbE
 - 검 이펙트 테스트 영상 링크 : https://youtube.com/shorts/G7uNO6G7Ulw
+
